@@ -4,7 +4,7 @@
 [INTELLIJ](https://www.jetbrains.com/idea/)
 [Git](https://git-scm.com/downloads)
 
-# Git
+## Git
 ```sh
 git init
 git add .
@@ -12,3 +12,10 @@ git commit -m "Add Message"
 git push -u origin master
 ```
 ---
+## Java Core
+```sh
+git init
+git add .
+git commit -m "Add Message"
+git push -u origin master
+```
